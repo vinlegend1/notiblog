@@ -2,24 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/custom-dmenu-scripts/</loc>
+    <loc>https://notiblog-production.up.railway.app/tags/bash/</loc>
     <lastmod>2024-02-28T20:12:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://notiblog-production.up.railway.app/posts/custom-dmenu-scripts/</loc>
     <lastmod>2024-02-28T20:12:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://notiblog-production.up.railway.app/tags/dmenu/</loc>
     <lastmod>2024-02-28T20:12:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/r/</loc>
+    <loc>https://notiblog-production.up.railway.app/posts/</loc>
+    <lastmod>2024-02-28T20:12:28+08:00</lastmod>
+  </url><url>
+    <loc>https://notiblog-production.up.railway.app/tags/</loc>
+    <lastmod>2024-02-28T20:12:28+08:00</lastmod>
+  </url><url>
+    <loc>https://notiblog-production.up.railway.app/</loc>
+    <lastmod>2024-02-28T20:12:28+08:00</lastmod>
+  </url><url>
+    <loc>https://notiblog-production.up.railway.app/tags/r/</loc>
     <lastmod>2024-02-28T18:56:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://notiblog-production.up.railway.app/posts/tidyverse-notes/</loc>
     <lastmod>2024-02-28T18:56:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/tidyverse-notes/</loc>
-    <lastmod>2024-02-28T18:56:24+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://notiblog-production.up.railway.app/categories/</loc>
   </url>
 </urlset>
