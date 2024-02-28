@@ -31,9 +31,11 @@ DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
 ShowReadingTime = true
+ShowRssButtonInSectionTermList = true
 ShowShareButtons = true
 ShowPostNavLinks = true
 ShowCodeCopyButtons = true
+ShowAllPagesInArchive = true
 disableSpecial1stPost = true
 disableScrollToTop = false
 comments = true
@@ -87,8 +89,8 @@ tocopen = false
   hiddenInSingle = false
 
   [params.editPost]
-  URL = ""
-  Text = ""
+  URL = "https://github.com/vinlegend1/notiblog"
+  Text = "Suggest Changes"
   appendFilePath = true
 
   [params.fuseOpts]
@@ -105,3 +107,24 @@ identifier = "Posts"
 name = "Posts"
 url = "/posts/"
 weight = 1
+
+[[menu.main]]
+identifier = "Tags"
+name = "Tags"
+url = "/tags/"
+weight = 2
+
+[[menu.main]]
+identifier = "Search"
+name = "Search"
+url = "/search/"
+weight = 3
+
+[[menu.main]]
+identifier = "Archives"
+name = "Archives"
+url = "/archives/"
+weight = 4
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]

@@ -3,15 +3,6 @@ title = 'Tidyverse Notes'
 date = 2024-02-28T18:56:24+08:00
 draft = false
 tags = ['R']
-author = 'vinceroo'
-showToc = true
-ShowRssButtonInSectionTermList = true
-ShowReadingTime = true
-
-[editPost]
-URL = "https://github.com/vinlegend1/notiblog"
-Text = "Suggest Changes"
-appendFilePath = true
 +++
 
 ## Removing Specific Columns in Data Frames
