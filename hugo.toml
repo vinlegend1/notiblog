@@ -22,6 +22,7 @@ disableThemeToggle = false
 ShowReadingTime = true
 ShowShareButtons = true
 ShowPostNavLinks = true
+ShowCodeCopyButtons = true
 disableSpecial1stPost = true
 disableScrollToTop = false
 comments = true
