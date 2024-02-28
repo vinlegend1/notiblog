@@ -1,4 +1,4 @@
-baseURL = 'https://vinlegend1.github.io/notiblog/'
+baseURL = 'https://example.com'
 languageCode = 'en-us'
 title = 'You can find all sorts of things here.'
 
@@ -11,9 +11,18 @@ buildExpired = false
 disableXML = true
 minifyOutput = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          
 [params]
 env = "production"
 description = "A bunch of notes"
+math = true
 keywords = ["Notes"]
 author = "vinceroo"
 DateFormat = "January 2, 2006"
