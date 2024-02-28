@@ -1,6 +1,6 @@
 FROM klakegg/hugo:latest AS hugo
 
-WORKDIR /
+WORKDIR /app
 
 COPY . .
 
