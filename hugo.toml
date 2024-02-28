@@ -1,3 +1,95 @@
 baseURL = 'https://notiblog-production.up.railway.app/'
 languageCode = 'en-us'
 title = 'You can find all sorts of things here.'
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+description = "A bunch of notes"
+keywords = ["Notes"]
+author = "vinceroo"
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+disableSpecial1stPost = true
+disableScrollToTop = false
+comments = true
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+  [params.label]
+  text = "vinceroo"
+  icon = "typhlosion.gif"
+  iconHeight = 35
+
+  [params.profileMode]
+  enabled = true
+  title = "Typhlosion says HII."
+  subtitle = "A place where someone places all his notes."
+  imageUrl = "typhlosion.gif"
+  imageWidth = 120
+  imageHeight = 120
+  imageTitle = "Typhlosion GIF"
+
+    [[params.profileMode.buttons]]
+    name = "Posts"
+    url = "posts"
+
+  [params.homeInfoParams]
+  Title = "Welcome! 👋"
+  Content = "bruo"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/vinlegend1"
+
+#  [[params.socialIcons]]
+#  name = "buymeacoffee"
+#  url = "https://www.buymeacoffee.com/dataprofessor"
+
+# [params.analytics.google]
+# SiteVerificationTag = "XYZabc"
+
+# [params.analytics.bing]
+# SiteVerificationTag = "XYZabc"
+
+# [params.analytics.yandex]
+# SiteVerificationTag = "XYZabc"
+
+  [params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = false
+
+  [params.editPost]
+  URL = ""
+  Text = ""
+  appendFilePath = true
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
+
+[[menu.main]]
+identifier = "Posts"
+name = "Posts"
+url = "/posts/"
+weight = 1
