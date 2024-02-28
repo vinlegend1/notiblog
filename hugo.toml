@@ -1,6 +1,7 @@
 baseURL = 'https://example.com'
 languageCode = 'en-us'
 title = 'You can find all sorts of things here.'
+paginate = 7
 
 enableRobotsTXT = true
 buildDrafts = false
