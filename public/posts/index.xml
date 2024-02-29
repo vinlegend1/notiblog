@@ -6,8 +6,18 @@
     <description>Recent content in Posts on You can find all sorts of things here.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Feb 2024 09:26:30 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 14:26:30 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mixture of Gas and Vapor</title>
+      <link>http://localhost:1313/posts/mixture-of-gas-vapor/</link>
+      <pubDate>Thu, 29 Feb 2024 14:26:30 +0800</pubDate>
+      <guid>http://localhost:1313/posts/mixture-of-gas-vapor/</guid>
+      <description>Gas
+gaseous form at room conditions we refer to gases as the &amp;ldquo;dry&amp;rdquo; part of the mixture vapor
+gaseous form of a liquid at room conditions refer vapor as the moisture content of the mixture Measure of moisture content moisture content measures the composition of the mixture
+absolute humidity (or humidity ratio or specific humidity) $$w = \frac{m_v}{m_d}$$ Using Dalton&amp;rsquo;s model and the ideal gas equation, we can derive:</description>
+    </item>
     <item>
       <title>Fluid Dynamics</title>
       <link>http://localhost:1313/posts/fluid-dynamics/</link>

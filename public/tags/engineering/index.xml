@@ -18,5 +18,15 @@ $$\frac{p}{\gamma} + z = \text{static head} = \text{piezometric head}$$ velocity
 Head Loss The head loss is given by:
 $$h_L = \frac{2 \bar{\tau}_0 L}{\gamma r}$$ $$h_L = f \frac{L}{D} \frac{V^2}{2g}$$ $$h_L = K \frac{V^2}{2g}$$ K = loss coefficient</description>
     </item>
+    <item>
+      <title>Mixture of Gas and Vapor</title>
+      <link>http://localhost:1313/posts/mixture-of-gas-vapor/</link>
+      <pubDate>Thu, 29 Feb 2024 09:26:30 +0800</pubDate>
+      <guid>http://localhost:1313/posts/mixture-of-gas-vapor/</guid>
+      <description>Gas
+gaseous form at room conditions we refer to gases as the &amp;ldquo;dry&amp;rdquo; part of the mixture vapor
+gaseous form of a liquid at room conditions refer vapor as the moisture content of the mixture Measure of moisture content moisture content measures the composition of the mixture
+absolute humidity (or humidity ratio or specific humidity) $$w = \frac{m_v}{m_d}$$ Using Dalton&amp;rsquo;s model and the ideal gas equation, we can derive:</description>
+    </item>
   </channel>
 </rss>
