@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Engineering on You can find all sorts of things here.</title>
+    <link>http://localhost:1313/tags/engineering/</link>
+    <description>Recent content in Engineering on You can find all sorts of things here.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Feb 2024 09:26:30 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fluid Dynamics</title>
+      <link>http://localhost:1313/posts/fluid-dynamics/</link>
+      <pubDate>Thu, 29 Feb 2024 09:26:30 +0800</pubDate>
+      <guid>http://localhost:1313/posts/fluid-dynamics/</guid>
+      <description>Bernoulli Equation and Fluid Moving on a Streamline Don&amp;rsquo;t bother with the derivation: $$\frac{p}{\gamma} + \frac{V^2}{2g} + z = \text{constant} = \text{total head} = H$$ total head is sorta the same thing as total energy
+$$\frac{p}{\gamma} + z = \text{static head} = \text{piezometric head}$$ velocity head is just the velocity part
+Head Loss The head loss is given by:
+$$h_L = \frac{2 \bar{\tau}_0 L}{\gamma r}$$ $$h_L = f \frac{L}{D} \frac{V^2}{2g}$$ $$h_L = K \frac{V^2}{2g}$$ K = loss coefficient</description>
+    </item>
+  </channel>
+</rss>
