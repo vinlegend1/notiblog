@@ -2,6 +2,7 @@ baseURL = 'https://vinlegend1.github.io/notiblog/'
 languageCode = 'en-us'
 title = 'You can find all sorts of things here.'
 paginate = 7
+canonifyURL = true
 
 enableRobotsTXT = true
 buildDrafts = false
@@ -90,7 +91,7 @@ tocopen = false
   hiddenInSingle = false
 
   [params.editPost]
-  URL = "https://github.com/vinlegend1/notiblog"
+  URL = "https://github.com/vinlegend1/notiblog/content"
   Text = "Suggest Changes"
   appendFilePath = true
 
