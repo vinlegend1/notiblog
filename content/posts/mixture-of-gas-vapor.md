@@ -97,3 +97,13 @@ Saturation pressure at wet bulb temperature
 $$dpt <-> P_v$$
 
 ### Enthalpy and Internal Energy
+
+$$H_{mix} = H_{dg} + H_v$$
+$$U_{mix} = U_{dg} + U_v$$
+$$S_{mix} = S_{dg} + S_v$$
+
+which one should be our reference mass?
+- mass of vapor is variable that depends on dew point and other temps
+- so we use dry gas mass as reference
+
+$$h = h_{dg} + \omega h_v$$
