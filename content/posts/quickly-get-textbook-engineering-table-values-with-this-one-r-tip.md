@@ -1,7 +1,7 @@
 +++
 title = 'Quickly Get Textbook Engineering Table Values With This One R Tip'
 date = 2024-03-04T09:59:41+08:00
-draft = true
+draft = false
 +++
 
 ## Step 1: Grab the PDF copy of the table you're using
