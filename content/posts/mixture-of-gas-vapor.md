@@ -54,3 +54,46 @@ $$^{\circ}sn = \frac{\omega'}{\omega_{sat}}$$
 
 * mass fraction of vapor
 * mole fraction of vapor
+
+### Properties of Mixtures of Gases and Vapor
+
+this "study" or analysis is called psychometry
+
+$$P_v + P_{dg} = P_{mix}$$
+
+1. dry bulb temperature
+- **thermodynamic temperature**
+
+2. wet bulb temperature
+
+dbt - wbt = wet bulb depression
+
+If dbt = wbt; "no evaporated cooling" "saturated air"
+
+thermometers read dry bulb temperature.
+when there's evaporative cooling, thermometers read wet buble temperature
+
+dbt > wbt unsaturated air
+
+3. dew point temperature
+- the temperature where droplets of water will form
+- highest temperature which vapor condenses to liquid droplets as the gas-vapor mixture is cooled at **constant pressure**
+- condensation happens when temperature goes below the due point
+- if dbt =  dpt -> saturated air
+- dbt > dpt -> unsaturated air
+
+dbt > wbt > dpt unsaturated air
+dbt = wbt = dpt saturated air
+
+### Relationship between vapor pressure and temperature
+
+Saturation pressure of the vapor
+$$@dbt <-> P_{sat}$$
+
+Saturation pressure at wet bulb temperature
+$$wbt <-> P_{vw}$$
+
+Saturation pressure at wet bulb temperature
+$$dpt <-> P_v$$
+
+### Enthalpy and Internal Energy
