@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on You can find all sorts of things here.</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:1313/notiblog/posts/</link>
     <description>Recent content in Posts on You can find all sorts of things here.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Feb 2024 14:26:30 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/notiblog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mixture of Gas and Vapor</title>
-      <link>http://localhost:1313/posts/mixture-of-gas-vapor/</link>
+      <link>http://localhost:1313/notiblog/posts/mixture-of-gas-vapor/</link>
       <pubDate>Thu, 29 Feb 2024 14:26:30 +0800</pubDate>
-      <guid>http://localhost:1313/posts/mixture-of-gas-vapor/</guid>
+      <guid>http://localhost:1313/notiblog/posts/mixture-of-gas-vapor/</guid>
       <description>Gas
 gaseous form at room conditions we refer to gases as the &amp;ldquo;dry&amp;rdquo; part of the mixture vapor
 gaseous form of a liquid at room conditions refer vapor as the moisture content of the mixture Measure of moisture content moisture content measures the composition of the mixture
@@ -20,9 +20,9 @@ absolute humidity (or humidity ratio or specific humidity) $$w = \frac{m_v}{m_d}
     </item>
     <item>
       <title>Fluid Dynamics</title>
-      <link>http://localhost:1313/posts/fluid-dynamics/</link>
+      <link>http://localhost:1313/notiblog/posts/fluid-dynamics/</link>
       <pubDate>Thu, 29 Feb 2024 09:26:30 +0800</pubDate>
-      <guid>http://localhost:1313/posts/fluid-dynamics/</guid>
+      <guid>http://localhost:1313/notiblog/posts/fluid-dynamics/</guid>
       <description>Bernoulli Equation and Fluid Moving on a Streamline Don&amp;rsquo;t bother with the derivation: $$\frac{p}{\gamma} + \frac{V^2}{2g} + z = \text{constant} = \text{total head} = H$$ total head is sorta the same thing as total energy
 $$\frac{p}{\gamma} + z = \text{static head} = \text{piezometric head}$$ velocity head is just the velocity part
 Head Loss The head loss is given by:
@@ -30,9 +30,9 @@ $$h_L = \frac{2 \bar{\tau}_0 L}{\gamma r}$$ $$h_L = f \frac{L}{D} \frac{V^2}{2g}
     </item>
     <item>
       <title>Fedora Post Install</title>
-      <link>http://localhost:1313/posts/fedora-post-install/</link>
+      <link>http://localhost:1313/notiblog/posts/fedora-post-install/</link>
       <pubDate>Thu, 29 Feb 2024 05:32:38 +0800</pubDate>
-      <guid>http://localhost:1313/posts/fedora-post-install/</guid>
+      <guid>http://localhost:1313/notiblog/posts/fedora-post-install/</guid>
       <description>Fedora Post Install Essentials Configuring Package Manager sudo vi /etc/dnf.conf
 fastestmirror=True max_parallel_downloads=10 defaultyes=True keepcache=True RPM Fusion and Better Media Codecs This step is important because I could barely play videos (media in general) on browsers. In this sense, fedora is a gigantic pain in the butt. You need to go to RPM Fusion
 Summary of commands
@@ -40,17 +40,17 @@ sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-releas
     </item>
     <item>
       <title>Custom Dmenu Scripts</title>
-      <link>http://localhost:1313/posts/custom-dmenu-scripts/</link>
+      <link>http://localhost:1313/notiblog/posts/custom-dmenu-scripts/</link>
       <pubDate>Wed, 28 Feb 2024 20:12:28 +0800</pubDate>
-      <guid>http://localhost:1313/posts/custom-dmenu-scripts/</guid>
+      <guid>http://localhost:1313/notiblog/posts/custom-dmenu-scripts/</guid>
       <description>Custom dmenu Scripts Dmenu script to load other binaries note that the directory used was ~/.local/pbin, you need to add it to your $PATH
 #!/bin/bash # Directory containing executables directory=&amp;#34;$HOME/.local/pbin/&amp;#34; # Get list of executable files in the directory options=$(find &amp;#34;$directory&amp;#34; -type f -executable -printf &amp;#34;%f\n&amp;#34;) # Use dmenu to select an option selected_option=$(echo &amp;#34;$options&amp;#34; | dmenu -p &amp;#34;Select an executable:&amp;#34;) # If an option is selected, execute the corresponding binary if [ -n &amp;#34;$selected_option&amp;#34; ]; then selected_path=&amp;#34;$directory$selected_option&amp;#34; &amp;#34;$selected_path&amp;#34; fi Check Battery Health (not dmenu) original command to check battery health and general info (for BAT0, if you only have one battery)</description>
     </item>
     <item>
       <title>Tidyverse Notes</title>
-      <link>http://localhost:1313/posts/tidyverse-notes/</link>
+      <link>http://localhost:1313/notiblog/posts/tidyverse-notes/</link>
       <pubDate>Wed, 28 Feb 2024 18:56:24 +0800</pubDate>
-      <guid>http://localhost:1313/posts/tidyverse-notes/</guid>
+      <guid>http://localhost:1313/notiblog/posts/tidyverse-notes/</guid>
       <description>Removing Specific Columns in Data Frames In the tidyverse, specifically using the dplyr package, you can remove specific columns from a data frame using the select() function along with the - operator to exclude columns you want to remove. Here&amp;rsquo;s how you can do it:
 library(dplyr) # Example data frame df &amp;lt;- data.frame( A = 1:5, B = letters[1:5], C = c(TRUE, FALSE, TRUE, FALSE, TRUE), D = c(3.5, 2.1, 6.</description>
     </item>

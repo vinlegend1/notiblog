@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on You can find all sorts of things here.</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/notiblog/tags/</link>
     <description>Recent content in Tags on You can find all sorts of things here.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Feb 2024 09:26:30 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Feb 2024 14:26:30 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/notiblog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Engineering</title>
-      <link>http://localhost:1313/tags/engineering/</link>
-      <pubDate>Thu, 29 Feb 2024 09:26:30 +0800</pubDate>
-      <guid>http://localhost:1313/tags/engineering/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fluid Mechanics</title>
-      <link>http://localhost:1313/tags/fluid-mechanics/</link>
-      <pubDate>Thu, 29 Feb 2024 09:26:30 +0800</pubDate>
-      <guid>http://localhost:1313/tags/fluid-mechanics/</guid>
+      <link>http://localhost:1313/notiblog/tags/engineering/</link>
+      <pubDate>Thu, 29 Feb 2024 14:26:30 +0800</pubDate>
+      <guid>http://localhost:1313/notiblog/tags/engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Thermodynamics</title>
-      <link>http://localhost:1313/tags/thermodynamics/</link>
+      <link>http://localhost:1313/notiblog/tags/thermodynamics/</link>
+      <pubDate>Thu, 29 Feb 2024 14:26:30 +0800</pubDate>
+      <guid>http://localhost:1313/notiblog/tags/thermodynamics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fluid Mechanics</title>
+      <link>http://localhost:1313/notiblog/tags/fluid-mechanics/</link>
       <pubDate>Thu, 29 Feb 2024 09:26:30 +0800</pubDate>
-      <guid>http://localhost:1313/tags/thermodynamics/</guid>
+      <guid>http://localhost:1313/notiblog/tags/fluid-mechanics/</guid>
       <description></description>
     </item>
     <item>
       <title>Bash</title>
-      <link>http://localhost:1313/tags/bash/</link>
+      <link>http://localhost:1313/notiblog/tags/bash/</link>
       <pubDate>Wed, 28 Feb 2024 20:12:28 +0800</pubDate>
-      <guid>http://localhost:1313/tags/bash/</guid>
+      <guid>http://localhost:1313/notiblog/tags/bash/</guid>
       <description></description>
     </item>
     <item>
       <title>Dmenu</title>
-      <link>http://localhost:1313/tags/dmenu/</link>
+      <link>http://localhost:1313/notiblog/tags/dmenu/</link>
       <pubDate>Wed, 28 Feb 2024 20:12:28 +0800</pubDate>
-      <guid>http://localhost:1313/tags/dmenu/</guid>
+      <guid>http://localhost:1313/notiblog/tags/dmenu/</guid>
       <description></description>
     </item>
     <item>
       <title>R</title>
-      <link>http://localhost:1313/tags/r/</link>
+      <link>http://localhost:1313/notiblog/tags/r/</link>
       <pubDate>Wed, 28 Feb 2024 18:56:24 +0800</pubDate>
-      <guid>http://localhost:1313/tags/r/</guid>
+      <guid>http://localhost:1313/notiblog/tags/r/</guid>
       <description></description>
     </item>
   </channel>
