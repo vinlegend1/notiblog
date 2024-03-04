@@ -106,4 +106,8 @@ which one should be our reference mass?
 - mass of vapor is variable that depends on dew point and other temps
 - so we use dry gas mass as reference
 
-$$h = h_{dg} + \omega h_v$$
+$$u = u_{dg} + \omega u_v [kJ/kgda]$$
+$$h = h_{dg} + \omega h_v [kJ/kgda]$$
+$$s = s_{dg} + \omega s_v [kJ/kgda K]$$
+
+$$h = 1.01 dbt + \omega (2501.3 + 1.86 tbd)$$
