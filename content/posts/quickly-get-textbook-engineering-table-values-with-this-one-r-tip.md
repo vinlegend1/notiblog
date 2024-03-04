@@ -1,8 +1,7 @@
 +++
-title = 'Quickly Get Textbook Engineering Table Values with this one R Tip'
-date = 2024-03-04T08:56:24+08:00
-draft = false
-tags = ['R', 'engineering', 'tables']
+title = 'Quickly Get Textbook Engineering Table Values With This One R Tip'
+date = 2024-03-04T09:59:41+08:00
+draft = true
 +++
 
 ## Step 1: Grab the PDF copy of the table you're using
