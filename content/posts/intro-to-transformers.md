@@ -53,3 +53,11 @@ input power = output power (in an ideal case)
 input power > output power (the usual case)
 $$V_1 I_1 = V_2 I_2$$
 - voltage, turn, current ratio
+
+**Transformers are rated in terms of voltage and apparent power**
+- that explains the Monumento station apparent power rating
+- can deliver the rated power without heating up
+
+$$I_0 = sqrt(I_C^2 + I_M^2)
+total core losses 
+$$V_1 I_0 cos \phi_0$$
