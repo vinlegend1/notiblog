@@ -1,9 +1,8 @@
-baseURL = 'https://vinlegend1.github.io/notiblog/'
+baseURL = 'https://notiblog-psi.vercel.app/'
 languageCode = 'en-us'
 title = 'You can find all sorts of things here.'
 paginate = 7
 
-canonifyURLs = true
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
