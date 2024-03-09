@@ -3,9 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/notiblog/posts/</loc>
-    <lastmod>2024-03-04T09:59:41+08:00</lastmod>
+    <lastmod>2024-03-09T09:11:48+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notiblog/posts/transient-heat-transfer/</loc>
+    <lastmod>2024-03-09T09:11:48+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notiblog/</loc>
+    <lastmod>2024-03-09T09:11:48+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notiblog/posts/intro-to-transformers/</loc>
+    <lastmod>2024-03-05T10:40:26+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notiblog/posts/quickly-get-textbook-engineering-table-values-with-this-one-r-tip/</loc>
     <lastmod>2024-03-04T09:59:41+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notiblog/tags/engineering/</loc>
