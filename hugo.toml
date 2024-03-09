@@ -2,7 +2,6 @@ baseURL = 'https://vinlegend1.github.io/notiblog/'
 languageCode = 'en-us'
 title = 'You can find all sorts of things here.'
 paginate = 7
-canonifyURLs = true
 
 enableRobotsTXT = true
 buildDrafts = false
@@ -45,6 +44,7 @@ hidemeta = false
 hideSummary = false
 showtoc = false
 tocopen = false
+canonifyURLs = true
 
   [params.label]
   text = "vinceroo"
