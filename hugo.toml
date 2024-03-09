@@ -1,4 +1,4 @@
-baseURL = 'https://notiblog-psi.vercel.app/'
+baseURL = 'https://notiblog.vercel.app/'
 languageCode = 'en-us'
 title = 'You can find all sorts of things here.'
 paginate = 7
