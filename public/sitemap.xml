@@ -2,61 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/notiblog/posts/</loc>
+    <loc>http://localhost:1313/posts/notes-on-passages-about-money-in-the-bible/</loc>
+    <lastmod>2024-03-09T12:00:16+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-03-09T12:00:16+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-03-09T12:00:16+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/glc-online-training-compressed-notes/</loc>
+    <lastmod>2024-03-09T09:48:29+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/transient-heat-transfer/</loc>
     <lastmod>2024-03-09T09:11:48+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notiblog/posts/transient-heat-transfer/</loc>
-    <lastmod>2024-03-09T09:11:48+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/notiblog/</loc>
-    <lastmod>2024-03-09T09:11:48+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/notiblog/posts/intro-to-transformers/</loc>
+    <loc>http://localhost:1313/posts/intro-to-transformers/</loc>
     <lastmod>2024-03-05T10:40:26+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notiblog/posts/quickly-get-textbook-engineering-table-values-with-this-one-r-tip/</loc>
+    <loc>http://localhost:1313/posts/quickly-get-textbook-engineering-table-values-with-this-one-r-tip/</loc>
     <lastmod>2024-03-04T09:59:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notiblog/tags/engineering/</loc>
+    <loc>http://localhost:1313/tags/engineering/</loc>
     <lastmod>2024-02-29T14:26:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notiblog/posts/mixture-of-gas-vapor/</loc>
+    <loc>http://localhost:1313/posts/mixture-of-gas-vapor/</loc>
     <lastmod>2024-02-29T14:26:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notiblog/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-02-29T14:26:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notiblog/tags/thermodynamics/</loc>
+    <loc>http://localhost:1313/tags/thermodynamics/</loc>
     <lastmod>2024-02-29T14:26:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notiblog/posts/fluid-dynamics/</loc>
+    <loc>http://localhost:1313/posts/fluid-dynamics/</loc>
     <lastmod>2024-02-29T09:26:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notiblog/tags/fluid-mechanics/</loc>
+    <loc>http://localhost:1313/tags/fluid-mechanics/</loc>
     <lastmod>2024-02-29T09:26:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notiblog/posts/fedora-post-install/</loc>
+    <loc>http://localhost:1313/posts/fedora-post-install/</loc>
     <lastmod>2024-02-29T05:32:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notiblog/tags/bash/</loc>
+    <loc>http://localhost:1313/tags/bash/</loc>
     <lastmod>2024-02-28T20:12:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notiblog/posts/custom-dmenu-scripts/</loc>
+    <loc>http://localhost:1313/posts/custom-dmenu-scripts/</loc>
     <lastmod>2024-02-28T20:12:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notiblog/tags/dmenu/</loc>
+    <loc>http://localhost:1313/tags/dmenu/</loc>
     <lastmod>2024-02-28T20:12:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notiblog/tags/r/</loc>
+    <loc>http://localhost:1313/tags/r/</loc>
     <lastmod>2024-02-28T18:56:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notiblog/posts/tidyverse-notes/</loc>
+    <loc>http://localhost:1313/posts/tidyverse-notes/</loc>
     <lastmod>2024-02-28T18:56:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notiblog/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/notiblog/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/notiblog/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>

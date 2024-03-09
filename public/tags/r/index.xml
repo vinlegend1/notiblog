@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>R on You can find all sorts of things here.</title>
-    <link>http://localhost:1313/notiblog/tags/r/</link>
+    <link>http://localhost:1313/tags/r/</link>
     <description>Recent content in R on You can find all sorts of things here.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Feb 2024 18:56:24 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/notiblog/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tidyverse Notes</title>
-      <link>http://localhost:1313/notiblog/posts/tidyverse-notes/</link>
+      <link>http://localhost:1313/posts/tidyverse-notes/</link>
       <pubDate>Wed, 28 Feb 2024 18:56:24 +0800</pubDate>
-      <guid>http://localhost:1313/notiblog/posts/tidyverse-notes/</guid>
+      <guid>http://localhost:1313/posts/tidyverse-notes/</guid>
       <description>Removing Specific Columns in Data Frames In the tidyverse, specifically using the dplyr package, you can remove specific columns from a data frame using the select() function along with the - operator to exclude columns you want to remove. Here&amp;rsquo;s how you can do it:
 library(dplyr) # Example data frame df &amp;lt;- data.frame( A = 1:5, B = letters[1:5], C = c(TRUE, FALSE, TRUE, FALSE, TRUE), D = c(3.5, 2.1, 6.</description>
     </item>
