@@ -13,4 +13,4 @@ In other words...
 $$T(x,y,t) \approx T(t)$$
 
 $$\theta^{*} = \frac{\theta}{\theta_i}$$
-$$x^{*} = \frac{x}{L}
+$$x^{*} = \frac{x}{L}$$
